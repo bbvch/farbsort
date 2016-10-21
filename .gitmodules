@@ -12,7 +12,7 @@
 	branch = krogoth
 [submodule "sources/meta-farbsort"]
 	path = sources/meta-farbsort
-	url = git@github.com:ppoile/meta-farbsort
+	url = https://github.com/goerks/meta-farbsort.git
 [submodule "sources/meta-qt5"]
 	path = sources/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5
