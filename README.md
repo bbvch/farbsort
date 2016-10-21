@@ -10,7 +10,7 @@ git clone --recurse-submodules git://github.com/ppoile/farbsort
 Prepare:
 ```
 cd farbsort
-. sources/poky/oe-init-build-env build
+source setup-yocto-env.sh
 ```
 
 Build
