@@ -16,20 +16,26 @@ source setup-yocto-env.sh
 Build
 -----
 
-Build native dependencies:
+Build all in one go:
 
 ```
-bitbake parted-native mtools-native dosfstools-native
+make
 ```
 
-Build rootfs:
+...or build single targets. Host dependencies:
 
 ```
-bitbake farbsort-image-dev
+make host-dependencies
 ```
 
-Create SD-Card image:
+rootfs:
 
 ```
-wic create sdimage-bootpart -e farbsort-image-dev
+make rootfs
+```
+
+SD-Card image:
+
+```
+make sdcard-image
 ```
