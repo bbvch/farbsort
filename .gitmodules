@@ -17,3 +17,7 @@
 	path = sources/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5
 	branch = krogoth
+[submodule "farbsort-websocket"]
+	path = sources/farbsort-websocket
+	url = https://github.com/ppoile/farbsort-websocket.git
+	branch = master
