@@ -4,7 +4,7 @@ Setup
 Checkout:
 
 ```
-git clone --recurse-submodules git://github.com/ppoile/farbsort
+git clone --recurse-submodules https://github.com/goerks/farbsort.git
 ```
 
 Prepare:
