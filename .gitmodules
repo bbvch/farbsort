@@ -12,12 +12,12 @@
 	branch = krogoth
 [submodule "sources/meta-farbsort"]
 	path = sources/meta-farbsort
-	url = https://github.com/goerks/meta-farbsort.git
+	url = https://github.com/bbvch/meta-farbsort.git
 [submodule "sources/meta-qt5"]
 	path = sources/meta-qt5
 	url = https://github.com/meta-qt5/meta-qt5
 	branch = krogoth
 [submodule "farbsort-websocket"]
 	path = sources/farbsort-websocket
-	url = https://github.com/ppoile/farbsort-websocket.git
+	url = https://github.com/bbvch/farbsort-websocket.git
 	branch = master
