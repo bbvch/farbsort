@@ -7,6 +7,12 @@ Checkout:
 git clone --recurse-submodules https://github.com/bbvch/farbsort.git
 ```
 
+Update:
+```
+git pull
+git submodule update --recursive --remote
+```
+
 Prepare:
 ```
 cd farbsort
