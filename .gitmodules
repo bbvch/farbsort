@@ -22,3 +22,7 @@
 	path = sources/farbsort-websocket
 	url = https://github.com/bbvch/farbsort-websocket.git
 	branch = master
+[submodule "pru-farbsort"]
+	path = pru-farbsort
+	url = https://github.com/bbvch/pru-farbsort
+	branch = master
