@@ -2,7 +2,7 @@
 
 **farbsort** or as it is also known the **AMP Showcase** is a project with the intent to display [bbv's](https://www.bbv.ch) profiency at implementing an embedded solution with real-time conditions on an AMP Board. The first version (July 2017) runs on a beagleboard black. 
 
-![System setup](/home/bernedom/Code/farbsort/doc/images/system_overview.jpg  "The AMP Showcase")
+![System setup](doc/images/system_overview.jpg  "The AMP Showcase")
 
 There are several sub-projects/applications needed to run the showcase (all added as git submodules to this repo)
 
@@ -11,7 +11,7 @@ There are several sub-projects/applications needed to run the showcase (all adde
  * *[farbsort-gui](https://github.com/bbvch/farbsort-gui)*: the client software to display a nice UI using QML
  * *[meta-farbsort](https://github.com/bbvch/farbsort-meta)*: A bitbake project to create SD  card images for the farbsort board
  
-![Applications overview](/home/bernedom/Code/farbsort/doc/images/application_overview.png  "applications overview")
+![Applications overview](doc/images/application_overview.png  "applications overview")
 
 # Setup
 

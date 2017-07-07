@@ -26,3 +26,7 @@
 	path = pru-farbsort
 	url = https://github.com/bbvch/pru-farbsort
 	branch = master
+[submodule "farbsort-gui"]
+	path = farbsort-gui
+	url = https://github.com/bbvch/farbsort-gui
+	branch = master
